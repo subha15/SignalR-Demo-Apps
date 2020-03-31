@@ -1,0 +1,2 @@
+Packages I installed
+ <package id="Microsoft.AspNet.SignalR.Client" version="2.4.1" targetFramework="net461" />

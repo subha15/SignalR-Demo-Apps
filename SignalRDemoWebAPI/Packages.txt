@@ -1,0 +1,4 @@
+I installed these
+  <package id="Microsoft.AspNet.Cors" version="5.0.0" targetFramework="net461" />
+  <package id="Microsoft.AspNet.SignalR.Core" version="2.4.1" targetFramework="net461" />
+  <package id="Microsoft.AspNet.SignalR.SystemWeb" version="2.4.1" targetFramework="net461" />
